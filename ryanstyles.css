@@ -1,0 +1,25 @@
+body {
+    background-color: black;
+    font-family: 'Montserrat', sans-serif;
+    text-align: center;
+}
+
+#insult {
+    font-weight: bold;
+    margin-top:35vh;
+    font-size: 70px;
+    color: white;
+}
+
+#button {
+    font-weight:normal;
+    padding-top: 20px;
+    margin-left: 39%;
+    font-size: 35px;
+    margin-top: 75px;
+    width: 22%;
+    height: 63px;
+    background-color: #505050;
+    color: #6FFF4F;
+    border-radius: 20px;
+}
